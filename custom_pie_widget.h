@@ -1,5 +1,5 @@
 #ifndef __CUSTOM_PIE_WIDGET_H__
-#define __CUSTOME_PIE_WIDGET_H__
+#define __CUSTOM_PIE_WIDGET_H__
 
 #include <gtk/gtk.h>
 
